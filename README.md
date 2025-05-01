@@ -4,6 +4,12 @@
 ## 📌 Project Overview    
 This capstone project explores the application of Fourier series and Discrete Fourier Transform (DFT) in Multiple-Input Multiple-Output (MIMO) radar imaging systems. The project demonstrates how Fourier analysis can be used to improve radar image resolution and target detection sensitivity compared to traditional single-antenna systems.
 
+graph LR
+    T[Transmitters] --> C[Channel Matrix]
+    C --> R[Receivers]
+    R --> P[Signal Processing]
+    P --> I[Radar Image]
+
 Key Components
 1. Fourier Series and Transform Fundamentals
 Implementation of Discrete Fourier Transform (DFT) and Inverse DFT
@@ -21,11 +27,7 @@ Alamouti space-time coding for diversity gain
 
 Maximal-ratio combining techniques
 
-graph LR
-    T[Transmitters] --> C[Channel Matrix]
-    C --> R[Receivers]
-    R --> P[Signal Processing]
-    P --> I[Radar Image]
+
     
 3. Radar Imaging Applications
 Target location parameter estimation
