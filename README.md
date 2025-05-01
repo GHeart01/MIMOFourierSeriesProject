@@ -21,6 +21,12 @@ Alamouti space-time coding for diversity gain
 
 Maximal-ratio combining techniques
 
+graph LR
+    T[Transmitters] --> C[Channel Matrix]
+    C --> R[Receivers]
+    R --> P[Signal Processing]
+    P --> I[Radar Image]
+    
 3. Radar Imaging Applications
 Target location parameter estimation
 
@@ -35,7 +41,7 @@ False target elimination techniques
 
 The project is based off this original paper by Dr. Zhijun Qiao: https://github.com/GHeart01/MIMOFourierSeriesProject/blob/main/MIMOoriginalResearch.pdf
 
-References
+
 
 # References
 Ames, William F. Numerical Methods for Partial Differential Equations. Acad. Pr., 1985.
