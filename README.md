@@ -10,9 +10,11 @@ graph LR
     C --> R[Receivers]
     R --> P[Signal Processing]
     P --> I[Radar Image]
+
+
 ```
 
-Key Components
+# Key Components
 1. Fourier Series and Transform Fundamentals
 Implementation of Discrete Fourier Transform (DFT) and Inverse DFT
 
