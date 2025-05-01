@@ -27,3 +27,15 @@ Target location parameter estimation
 Signal processing for improved resolution
 
 False target elimination techniques
+
+
+References
+
+References
+Ames, William F. Numerical Methods for Partial Differential Equations. Acad. Pr., 1985.
+Asmar, Nakhlé H. Partial Differential Equations with Fourier Series and Boundary Value Problems. Dover, 2016.
+Davis, John M. Introduction to Applied Partial Differential Equations. W.H. Freeman & Co., 2013.
+Farlow, Stanley J. Partial Differential Equations for Scientists and Engineers. Dover Publications, Inc., 2016.
+Kreyszig, E. Advanced Engineering Mathematics. John Wiley & Sons, 2006.
+Y.Cao, J.F. Lopez,A. Martinex, and Zhijun Qiao: A Mathematical Model for MIMO Imaging. Spieditiallibrary.org, 2012 
+![image](https://github.com/user-attachments/assets/1ebe2f5a-d20a-4267-8a68-13f05400066b)
