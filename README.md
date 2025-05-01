@@ -28,10 +28,16 @@ Signal processing for improved resolution
 
 False target elimination techniques
 
+# MATLAB Toolboxes Required
+- Signal Processing Toolbox
+- Communications Toolbox
+- Parallel Computing Toolbox (optional)
+
+The project is based off this original paper by Dr. Zhijun Qiao: https://github.com/GHeart01/MIMOFourierSeriesProject/blob/main/MIMOoriginalResearch.pdf
 
 References
 
-References
+# References
 Ames, William F. Numerical Methods for Partial Differential Equations. Acad. Pr., 1985.
 
 Asmar, Nakhlé H. Partial Differential Equations with Fourier Series and Boundary Value Problems. Dover, 2016.
