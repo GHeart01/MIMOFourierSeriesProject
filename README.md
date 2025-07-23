@@ -46,7 +46,7 @@ False target elimination techniques
 - Parallel Computing Toolbox (optional)
 
 The project is based off this original paper by Dr. Zhijun Qiao: https://github.com/GHeart01/MIMOFourierSeriesProject/blob/main/MIMOoriginalResearch.pdf
-## Installation
+## Clone
 
 1. Clone this repository:
    ```bash
